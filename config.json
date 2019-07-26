@@ -1,0 +1,6 @@
+{
+  "freesound":
+  {
+    "data_path": "../datasets/freesound/"
+  }
+}
