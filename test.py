@@ -17,7 +17,7 @@ from tqdm import tqdm
 from models import get_model
 from loaders import get_loader, get_data_path
 from misc.metrics import *
-from misc.utils import convert_state_dict, flip, AverageMeter
+from misc.utils import convert_state_dict, AverageMeter
 
 from torchaudio_contrib.layers import Melspectrogram, Pcen
 
